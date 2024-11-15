@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ahmed Abdalazeem Ahmed
-- 👀 I’m interested in  develope web applications
+- 👀 I’m interested in  web application using Dot net
 - 🌱 I’m currently working Web development using Dotnet
 - 📫 How to reach me ahmedmon997@gmail.com & 01159682436 
